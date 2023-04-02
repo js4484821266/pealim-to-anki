@@ -6,3 +6,4 @@ with open('anki-hebrew.html', 'w', encoding='u8') as f:
         soup = BeautifulSoup(r.text, 'html.parser')
         pos = soup.h2.find_next('p').text
         meaning = soup.find('div', {'class': 'lead'})
+        True
