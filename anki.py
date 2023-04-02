@@ -10,10 +10,20 @@ def lehateh(soup: BeautifulSoup, id: list[list[list[str]]]) -> str:
         table += '<tr>'
         for j, k in zip(i, colspan4[len(i)]):
             table += '<th'+(f' colspan=\"{k}\"'if k-1 else'')+'>'
-            # TODO: KINDS OF CONJUGATIONS
+            table += '<br>'.join(j)
             table += '</th>'
         table += '</tr><tr>'
-        #TODO: CONJUGATIONS
+        for j, k in zip(i, colspan4[len(i)]):
+            table += '<td'+(f' colspan=\"{k}\"'if k-1 else'')+'>'
+            #TODO:soup=?
+            menukadim = map(str,soup.find_all('span', {'class': 'menukad'}))
+            chaserim = map(str,soup.find_all('span', {'class': 'chaser'}))
+            transcriptions = map(lambda x:''.join(map(str,x.contents)),soup.find_all('div', {'class': 'transcription'}))
+            if not chaserim:
+                chaserim = ['']*len(menukadim)
+            for m,c,t in zip(menukadim,chaserim,transcriptions):
+                pass
+            table += '</td>'
         table += '</tr>'
     return table+'</table>'
 
