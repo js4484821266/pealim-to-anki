@@ -1,10 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 with open(f'Hebrew.txt', 'w', encoding='u8') as f:
-    for wsn in range(10):
+    for wsn in range(10,100):
         r = requests.get(f'https://www.pealim.com/dict/{wsn+1}/')
         if r.status_code != 200:
+            print(f'Error: {wsn+1}')
             continue
+        print(f'Processing: {wsn+1}')
         soup = BeautifulSoup(r.text, 'html.parser')
         pos = soup.h2.find_next('p').text
         r = [pos]*2
