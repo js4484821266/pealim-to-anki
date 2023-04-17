@@ -1,0 +1,275 @@
+Verb – PA'AL<br>AP-ms<br>to write	Verb – PA'AL<br>כּוֹתֵב<br>kot<b>e</b>v
+Verb – PA'AL<br>AP-fs<br>to write	Verb – PA'AL<br>כּוֹתֶבֶת<br>kot<b>e</b>vet
+Verb – PA'AL<br>AP-mp<br>to write	Verb – PA'AL<br>כּוֹתְבִים<br>kotv<b>i</b>m
+Verb – PA'AL<br>AP-fp<br>to write	Verb – PA'AL<br>כּוֹתְבוֹת<br>kotv<b>o</b>t
+Verb – PA'AL<br>PERF-1s<br>to write	Verb – PA'AL<br>כָּתַבְתִּי<br>kat<b>a</b>vti
+Verb – PA'AL<br>PERF-1p<br>to write	Verb – PA'AL<br>כָּתַבְנוּ<br>kat<b>a</b>vnu
+Verb – PA'AL<br>PERF-2ms<br>to write	Verb – PA'AL<br>כָּתַבְתָּ<br>kat<b>a</b>vta
+Verb – PA'AL<br>PERF-2fs<br>to write	Verb – PA'AL<br>כָּתַבְתְּ<br>kat<b>a</b>vt
+Verb – PA'AL<br>PERF-2mp<br>to write	Verb – PA'AL<br>כְּתַבְתֶּם<br>ktavt<b>e</b>m
+Verb – PA'AL<br>PERF-2fp<br>to write	Verb – PA'AL<br>כְּתַבְתֶּן<br>ktavt<b>e</b>n
+Verb – PA'AL<br>PERF-3ms<br>to write	Verb – PA'AL<br>כָּתַב<br>kat<b>a</b>v
+Verb – PA'AL<br>PERF-3fs<br>to write	Verb – PA'AL<br>כָּתְבָה<br>katv<b>a</b>
+Verb – PA'AL<br>PERF-3p<br>to write	Verb – PA'AL<br>כָּתְבוּ<br>katv<b>u</b>
+Verb – PA'AL<br>IMPF-1s<br>to write	Verb – PA'AL<br>אֶכְתֹּב ~ אכתוב<br>echt<b>o</b>v
+Verb – PA'AL<br>IMPF-1p<br>to write	Verb – PA'AL<br>נִכְתֹּב ~ נכתוב<br>nicht<b>o</b>v
+Verb – PA'AL<br>IMPF-2ms<br>to write	Verb – PA'AL<br>תִּכְתֹּב ~ תכתוב<br>ticht<b>o</b>v
+Verb – PA'AL<br>IMPF-2fs<br>to write	Verb – PA'AL<br>תִּכְתְּבִי<br>tichtev<b>i</b>
+Verb – PA'AL<br>IMPF-2mp<br>to write	Verb – PA'AL<br>תִּכְתְּבוּ<br>tichtev<b>u</b>
+Verb – PA'AL<br>IMPF-2fp<br>to write	Verb – PA'AL<br>תִּכְתֹּבְנָה ~ תכתובנה<br>ticht<b>o</b>vna
+Verb – PA'AL<br>IMPF-3ms<br>to write	Verb – PA'AL<br>יִכְתֹּב ~ יכתוב<br>yicht<b>o</b>v
+Verb – PA'AL<br>IMPF-3fs<br>to write	Verb – PA'AL<br>תִּכְתֹּב ~ תכתוב<br>ticht<b>o</b>v
+Verb – PA'AL<br>IMPF-3mp<br>to write	Verb – PA'AL<br>יִכְתְּבוּ<br>yichtev<b>u</b>
+Verb – PA'AL<br>IMPF-3fp<br>to write	Verb – PA'AL<br>תִּכְתֹּבְנָה ~ תכתובנה<br>ticht<b>o</b>vna
+Verb – PA'AL<br>IMP-2ms<br>to write	Verb – PA'AL<br>כְּתֹב!‏ ~ כתוב!‏<br>kt<b>o</b>v!
+Verb – PA'AL<br>IMP-2fs<br>to write	Verb – PA'AL<br>כִּתְבִי!‏<br>kitv<b>i</b>!
+Verb – PA'AL<br>IMP-2mp<br>to write	Verb – PA'AL<br>כִּתְבוּ!‏<br>kitv<b>u</b>!
+Verb – PA'AL<br>IMP-2fp<br>to write	Verb – PA'AL<br>כְּתֹבְנָה!‏ ~ כתובנה!‏<br>kt<b>o</b>vna!
+Verb – PA'AL<br>INF-L<br>to write	Verb – PA'AL<br>לִכְתֹּב ~ לכתוב<br>licht<b>o</b>v
+Verb – PI'EL<br>AP-ms<br>to speak, to talk	Verb – PI'EL<br>מְדַבֵּר<br>medab<b>e</b>r
+Verb – PI'EL<br>AP-fs<br>to speak, to talk	Verb – PI'EL<br>מְדַבֶּרֶת<br>medab<b>e</b>ret
+Verb – PI'EL<br>AP-mp<br>to speak, to talk	Verb – PI'EL<br>מְדַבְּרִים<br>medabr<b>i</b>m
+Verb – PI'EL<br>AP-fp<br>to speak, to talk	Verb – PI'EL<br>מְדַבְּרוֹת<br>medabr<b>o</b>t
+Verb – PI'EL<br>PERF-1s<br>to speak, to talk	Verb – PI'EL<br>דִּבַּרְתִּי ~ דיברתי<br>dib<b>a</b>rti
+Verb – PI'EL<br>PERF-1p<br>to speak, to talk	Verb – PI'EL<br>דִּבַּרְנוּ ~ דיברנו<br>dib<b>a</b>rnu
+Verb – PI'EL<br>PERF-2ms<br>to speak, to talk	Verb – PI'EL<br>דִּבַּרְתָּ ~ דיברת<br>dib<b>a</b>rta
+Verb – PI'EL<br>PERF-2fs<br>to speak, to talk	Verb – PI'EL<br>דִּבַּרְתְּ ~ דיברת<br>dib<b>a</b>rt
+Verb – PI'EL<br>PERF-2mp<br>to speak, to talk	Verb – PI'EL<br>דִּבַּרְתֶּם ~ דיברתם<br>dibart<b>e</b>m
+Verb – PI'EL<br>PERF-2fp<br>to speak, to talk	Verb – PI'EL<br>דִּבַּרְתֶּן ~ דיברתן<br>dibart<b>e</b>n
+Verb – PI'EL<br>PERF-3ms<br>to speak, to talk	Verb – PI'EL<br>דִּבֵּר ~ דיבר<br>dib<b>e</b>r
+Verb – PI'EL<br>PERF-3fs<br>to speak, to talk	Verb – PI'EL<br>דִּבְּרָה ~ דיברה<br>dibr<b>a</b>
+Verb – PI'EL<br>PERF-3p<br>to speak, to talk	Verb – PI'EL<br>דִּבְּרוּ ~ דיברו<br>dibr<b>u</b>
+Verb – PI'EL<br>IMPF-1s<br>to speak, to talk	Verb – PI'EL<br>אֲדַבֵּר<br>adab<b>e</b>r
+Verb – PI'EL<br>IMPF-1p<br>to speak, to talk	Verb – PI'EL<br>נְדַבֵּר<br>nedab<b>e</b>r
+Verb – PI'EL<br>IMPF-2ms<br>to speak, to talk	Verb – PI'EL<br>תְּדַבֵּר<br>tedab<b>e</b>r
+Verb – PI'EL<br>IMPF-2fs<br>to speak, to talk	Verb – PI'EL<br>תְּדַבְּרִי<br>tedabr<b>i</b>
+Verb – PI'EL<br>IMPF-2mp<br>to speak, to talk	Verb – PI'EL<br>תְּדַבְּרוּ<br>tedabr<b>u</b>
+Verb – PI'EL<br>IMPF-2fp<br>to speak, to talk	Verb – PI'EL<br>תְּדַבֵּרְנָה<br>tedab<b>e</b>rna
+Verb – PI'EL<br>IMPF-3ms<br>to speak, to talk	Verb – PI'EL<br>יְדַבֵּר<br>yedab<b>e</b>r
+Verb – PI'EL<br>IMPF-3fs<br>to speak, to talk	Verb – PI'EL<br>תְּדַבֵּר<br>tedab<b>e</b>r
+Verb – PI'EL<br>IMPF-3mp<br>to speak, to talk	Verb – PI'EL<br>יְדַבְּרוּ<br>yedabr<b>u</b>
+Verb – PI'EL<br>IMPF-3fp<br>to speak, to talk	Verb – PI'EL<br>תְּדַבֵּרְנָה<br>tedab<b>e</b>rna
+Verb – PI'EL<br>IMP-2ms<br>to speak, to talk	Verb – PI'EL<br>דַּבֵּר!‏<br>dab<b>e</b>r!
+Verb – PI'EL<br>IMP-2fs<br>to speak, to talk	Verb – PI'EL<br>דַּבְּרִי!‏<br>dabr<b>i</b>!
+Verb – PI'EL<br>IMP-2mp<br>to speak, to talk	Verb – PI'EL<br>דַּבְּרוּ!‏<br>dabr<b>u</b>!
+Verb – PI'EL<br>IMP-2fp<br>to speak, to talk	Verb – PI'EL<br>דַּבֵּרְנָה!‏<br>dab<b>e</b>rna!
+Verb – PI'EL<br>INF-L<br>to speak, to talk	Verb – PI'EL<br>לְדַבֵּר<br>ledab<b>e</b>r
+Verb – PI'EL<br>passive-AP-ms<br>to speak, to talk	Verb – PI'EL<br>מְדֻבָּר ~ מדובר<br>medub<b>a</b>r
+Verb – PI'EL<br>passive-AP-fs<br>to speak, to talk	Verb – PI'EL<br>מְדֻבֶּרֶת ~ מדוברת<br>medub<b>e</b>ret
+Verb – PI'EL<br>passive-AP-mp<br>to speak, to talk	Verb – PI'EL<br>מְדֻבָּרִים ~ מדוברים<br>medubar<b>i</b>m
+Verb – PI'EL<br>passive-AP-fp<br>to speak, to talk	Verb – PI'EL<br>מְדֻבָּרוֹת ~ מדוברות<br>medubar<b>o</b>t
+Verb – PI'EL<br>passive-PERF-1s<br>to speak, to talk	Verb – PI'EL<br>דֻּבַּרְתִּי ~ דוברתי<br>dub<b>a</b>rti
+Verb – PI'EL<br>passive-PERF-1p<br>to speak, to talk	Verb – PI'EL<br>דֻּבַּרְנוּ ~ דוברנו<br>dub<b>a</b>rnu
+Verb – PI'EL<br>passive-PERF-2ms<br>to speak, to talk	Verb – PI'EL<br>דֻּבַּרְתָּ ~ דוברת<br>dub<b>a</b>rta
+Verb – PI'EL<br>passive-PERF-2fs<br>to speak, to talk	Verb – PI'EL<br>דֻּבַּרְתְּ ~ דוברת<br>dub<b>a</b>rt
+Verb – PI'EL<br>passive-PERF-2mp<br>to speak, to talk	Verb – PI'EL<br>דֻּבַּרְתֶּם ~ דוברתם<br>dubart<b>e</b>m
+Verb – PI'EL<br>passive-PERF-2fp<br>to speak, to talk	Verb – PI'EL<br>דֻּבַּרְתֶּן ~ דוברתן<br>dubart<b>e</b>n
+Verb – PI'EL<br>passive-PERF-3ms<br>to speak, to talk	Verb – PI'EL<br>דֻּבַּר ~ דובר<br>dub<b>a</b>r
+Verb – PI'EL<br>passive-PERF-3fs<br>to speak, to talk	Verb – PI'EL<br>דֻּבְּרָה ~ דוברה<br>dubr<b>a</b>
+Verb – PI'EL<br>passive-PERF-3p<br>to speak, to talk	Verb – PI'EL<br>דֻּבְּרוּ ~ דוברו<br>dubr<b>u</b>
+Verb – PI'EL<br>passive-IMPF-1s<br>to speak, to talk	Verb – PI'EL<br>אֲדֻבַּר ~ אדובר<br>adub<b>a</b>r
+Verb – PI'EL<br>passive-IMPF-1p<br>to speak, to talk	Verb – PI'EL<br>נְדֻבַּר ~ נדובר<br>nedub<b>a</b>r
+Verb – PI'EL<br>passive-IMPF-2ms<br>to speak, to talk	Verb – PI'EL<br>תְּדֻבַּר ~ תדובר<br>tedub<b>a</b>r
+Verb – PI'EL<br>passive-IMPF-2fs<br>to speak, to talk	Verb – PI'EL<br>תְּדֻבְּרִי ~ תדוברי<br>tedubr<b>i</b>
+Verb – PI'EL<br>passive-IMPF-2mp<br>to speak, to talk	Verb – PI'EL<br>תְּדֻבְּרוּ ~ תדוברו<br>tedubr<b>u</b>
+Verb – PI'EL<br>passive-IMPF-2fp<br>to speak, to talk	Verb – PI'EL<br>תְּדֻבַּרְנָה ~ תדוברנה<br>tedub<b>a</b>rna
+Verb – PI'EL<br>passive-IMPF-3ms<br>to speak, to talk	Verb – PI'EL<br>יְדֻבַּר ~ ידובר<br>yedub<b>a</b>r
+Verb – PI'EL<br>passive-IMPF-3fs<br>to speak, to talk	Verb – PI'EL<br>תְּדֻבַּר ~ תדובר<br>tedub<b>a</b>r
+Verb – PI'EL<br>passive-IMPF-3mp<br>to speak, to talk	Verb – PI'EL<br>יְדֻבְּרוּ ~ ידוברו<br>yedubr<b>u</b>
+Verb – PI'EL<br>passive-IMPF-3fp<br>to speak, to talk	Verb – PI'EL<br>תְּדֻבַּרְנָה ~ תדוברנה<br>tedub<b>a</b>rna
+Verb – PA'AL<br>AP-ms<br>to do, to make, to create	Verb – PA'AL<br>עוֹשֶׂה<br>os<b>e</b>
+Verb – PA'AL<br>AP-fs<br>to do, to make, to create	Verb – PA'AL<br>עוֹשָׂה<br>os<b>a</b>
+Verb – PA'AL<br>AP-mp<br>to do, to make, to create	Verb – PA'AL<br>עוֹשִׂים<br>os<b>i</b>m
+Verb – PA'AL<br>AP-fp<br>to do, to make, to create	Verb – PA'AL<br>עוֹשׂוֹת<br>os<b>o</b>t
+Verb – PA'AL<br>PERF-1s<br>to do, to make, to create	Verb – PA'AL<br>עָשִׂיתִי<br>as<b>i</b>ti
+Verb – PA'AL<br>PERF-1p<br>to do, to make, to create	Verb – PA'AL<br>עָשִׂינוּ<br>as<b>i</b>nu
+Verb – PA'AL<br>PERF-2ms<br>to do, to make, to create	Verb – PA'AL<br>עָשִׂיתָ<br>as<b>i</b>ta
+Verb – PA'AL<br>PERF-2fs<br>to do, to make, to create	Verb – PA'AL<br>עָשִׂית<br>as<b>i</b>t
+Verb – PA'AL<br>PERF-2mp<br>to do, to make, to create	Verb – PA'AL<br>עֲשִׂיתֶם<br>asit<b>e</b>m
+Verb – PA'AL<br>PERF-2fp<br>to do, to make, to create	Verb – PA'AL<br>עֲשִׂיתֶן<br>asit<b>e</b>n
+Verb – PA'AL<br>PERF-3ms<br>to do, to make, to create	Verb – PA'AL<br>עָשָׂה<br>as<b>a</b>
+Verb – PA'AL<br>PERF-3fs<br>to do, to make, to create	Verb – PA'AL<br>עָשְׂתָה<br>ast<b>a</b>
+Verb – PA'AL<br>PERF-3p<br>to do, to make, to create	Verb – PA'AL<br>עָשׂוּ<br>as<b>u</b>
+Verb – PA'AL<br>IMPF-1s<br>to do, to make, to create	Verb – PA'AL<br>אֶעֱשֶׂה<br>e'es<b>e</b>
+Verb – PA'AL<br>IMPF-1p<br>to do, to make, to create	Verb – PA'AL<br>נַעֲשֶׂה<br>na'as<b>e</b>
+Verb – PA'AL<br>IMPF-2ms<br>to do, to make, to create	Verb – PA'AL<br>תַּעֲשֶׂה<br>ta'as<b>e</b>
+Verb – PA'AL<br>IMPF-2fs<br>to do, to make, to create	Verb – PA'AL<br>תַּעֲשִׂי<br>ta'as<b>i</b>
+Verb – PA'AL<br>IMPF-2mp<br>to do, to make, to create	Verb – PA'AL<br>תַּעֲשׂוּ<br>ta'as<b>u</b>
+Verb – PA'AL<br>IMPF-2fp<br>to do, to make, to create	Verb – PA'AL<br>תַּעֲשֶׂינָה<br>ta'as<b>e</b>na
+Verb – PA'AL<br>IMPF-3ms<br>to do, to make, to create	Verb – PA'AL<br>יַעֲשֶׂה<br>ya'as<b>e</b>
+Verb – PA'AL<br>IMPF-3fs<br>to do, to make, to create	Verb – PA'AL<br>תַּעֲשֶׂה<br>ta'as<b>e</b>
+Verb – PA'AL<br>IMPF-3mp<br>to do, to make, to create	Verb – PA'AL<br>יַעֲשׂוּ<br>ya'as<b>u</b>
+Verb – PA'AL<br>IMPF-3fp<br>to do, to make, to create	Verb – PA'AL<br>תַּעֲשֶׂינָה<br>ta'as<b>e</b>na
+Verb – PA'AL<br>IMP-2ms<br>to do, to make, to create	Verb – PA'AL<br>עֲשֵׂה!‏<br>as<b>e</b>!
+Verb – PA'AL<br>IMP-2fs<br>to do, to make, to create	Verb – PA'AL<br>עֲשִׂי!‏<br>as<b>i</b>!
+Verb – PA'AL<br>IMP-2mp<br>to do, to make, to create	Verb – PA'AL<br>עֲשׂוּ!‏<br>as<b>u</b>!
+Verb – PA'AL<br>IMP-2fp<br>to do, to make, to create	Verb – PA'AL<br>עֲשֶׂינָה!‏<br>as<b>e</b>na!
+Verb – PA'AL<br>INF-L<br>to do, to make, to create	Verb – PA'AL<br>לַעֲשׂוֹת<br>la'as<b>o</b>t
+Verb – PA'AL<br>AP-ms<br>to live (in a specific location), to reside	Verb – PA'AL<br>גָּר<br>g<b>a</b>r
+Verb – PA'AL<br>AP-fs<br>to live (in a specific location), to reside	Verb – PA'AL<br>גָּרָה<br>gar<b>a</b>
+Verb – PA'AL<br>AP-mp<br>to live (in a specific location), to reside	Verb – PA'AL<br>גָּרִים<br>gar<b>i</b>m
+Verb – PA'AL<br>AP-fp<br>to live (in a specific location), to reside	Verb – PA'AL<br>גָּרוֹת<br>gar<b>o</b>t
+Verb – PA'AL<br>PERF-1s<br>to live (in a specific location), to reside	Verb – PA'AL<br>גַּרְתִּי<br>g<b>a</b>rti
+Verb – PA'AL<br>PERF-1p<br>to live (in a specific location), to reside	Verb – PA'AL<br>גַּרְנוּ<br>g<b>a</b>rnu
+Verb – PA'AL<br>PERF-2ms<br>to live (in a specific location), to reside	Verb – PA'AL<br>גַּרְתָּ<br>g<b>a</b>rta
+Verb – PA'AL<br>PERF-2fs<br>to live (in a specific location), to reside	Verb – PA'AL<br>גַּרְתְּ<br>g<b>a</b>rt
+Verb – PA'AL<br>PERF-2mp<br>to live (in a specific location), to reside	Verb – PA'AL<br>גַּרְתֶּם<br>gart<b>e</b>m
+Verb – PA'AL<br>PERF-2fp<br>to live (in a specific location), to reside	Verb – PA'AL<br>גַּרְתֶּן<br>gart<b>e</b>n
+Verb – PA'AL<br>PERF-3ms<br>to live (in a specific location), to reside	Verb – PA'AL<br>גָּר<br>g<b>a</b>r
+Verb – PA'AL<br>PERF-3fs<br>to live (in a specific location), to reside	Verb – PA'AL<br>גָּרָה<br>g<b>a</b>ra
+Verb – PA'AL<br>PERF-3p<br>to live (in a specific location), to reside	Verb – PA'AL<br>גָּרוּ<br>g<b>a</b>ru
+Verb – PA'AL<br>IMPF-1s<br>to live (in a specific location), to reside	Verb – PA'AL<br>אָגוּר<br>ag<b>u</b>r
+Verb – PA'AL<br>IMPF-1p<br>to live (in a specific location), to reside	Verb – PA'AL<br>נָגוּר<br>nag<b>u</b>r
+Verb – PA'AL<br>IMPF-2ms<br>to live (in a specific location), to reside	Verb – PA'AL<br>תָּגוּר<br>tag<b>u</b>r
+Verb – PA'AL<br>IMPF-2fs<br>to live (in a specific location), to reside	Verb – PA'AL<br>תָּגוּרִי<br>tag<b>u</b>ri
+Verb – PA'AL<br>IMPF-2mp<br>to live (in a specific location), to reside	Verb – PA'AL<br>תָּגוּרוּ<br>tag<b>u</b>ru
+Verb – PA'AL<br>IMPF-2fp<br>to live (in a specific location), to reside	Verb – PA'AL<br>תָּגֹרְנָה ~ תגורנה<br>tag<b>o</b>rnaתְּגוּרֶינָה<br>tegur<b>e</b>na
+Verb – PA'AL<br>IMPF-3ms<br>to live (in a specific location), to reside	Verb – PA'AL<br>יָגוּר<br>yag<b>u</b>r
+Verb – PA'AL<br>IMPF-3fs<br>to live (in a specific location), to reside	Verb – PA'AL<br>תָּגוּר<br>tag<b>u</b>r
+Verb – PA'AL<br>IMPF-3mp<br>to live (in a specific location), to reside	Verb – PA'AL<br>יָגוּרוּ<br>yag<b>u</b>ru
+Verb – PA'AL<br>IMPF-3fp<br>to live (in a specific location), to reside	Verb – PA'AL<br>תָּגֹרְנָה ~ תגורנה<br>tag<b>o</b>rnaתְּגוּרֶינָה<br>tegur<b>e</b>na
+Verb – PA'AL<br>IMP-2ms<br>to live (in a specific location), to reside	Verb – PA'AL<br>גּוּר!‏<br>g<b>u</b>r!
+Verb – PA'AL<br>IMP-2fs<br>to live (in a specific location), to reside	Verb – PA'AL<br>גּוּרִי!‏<br>g<b>u</b>ri!
+Verb – PA'AL<br>IMP-2mp<br>to live (in a specific location), to reside	Verb – PA'AL<br>גּוּרוּ!‏<br>g<b>u</b>ru!
+Verb – PA'AL<br>IMP-2fp<br>to live (in a specific location), to reside	Verb – PA'AL<br>גֹּרְנָה!‏ ~ גורנה!‏<br>g<b>o</b>rna!גּוּרֶינָה!‏<br>gur<b>e</b>na!
+Verb – PA'AL<br>INF-L<br>to live (in a specific location), to reside	Verb – PA'AL<br>לָגוּר<br>lag<b>u</b>r
+Verb – PA'AL<br>AP-ms<br>to sing	Verb – PA'AL<br>שָׁר<br>sh<b>a</b>r
+Verb – PA'AL<br>AP-fs<br>to sing	Verb – PA'AL<br>שָׁרָה<br>shar<b>a</b>
+Verb – PA'AL<br>AP-mp<br>to sing	Verb – PA'AL<br>שָׁרִים<br>shar<b>i</b>m
+Verb – PA'AL<br>AP-fp<br>to sing	Verb – PA'AL<br>שָׁרוֹת<br>shar<b>o</b>t
+Verb – PA'AL<br>PERF-1s<br>to sing	Verb – PA'AL<br>שַׁרְתִּי<br>sh<b>a</b>rti
+Verb – PA'AL<br>PERF-1p<br>to sing	Verb – PA'AL<br>שַׁרְנוּ<br>sh<b>a</b>rnu
+Verb – PA'AL<br>PERF-2ms<br>to sing	Verb – PA'AL<br>שַׁרְתָּ<br>sh<b>a</b>rta
+Verb – PA'AL<br>PERF-2fs<br>to sing	Verb – PA'AL<br>שַׁרְתְּ<br>sh<b>a</b>rt
+Verb – PA'AL<br>PERF-2mp<br>to sing	Verb – PA'AL<br>שַׁרְתֶּם<br>shart<b>e</b>m
+Verb – PA'AL<br>PERF-2fp<br>to sing	Verb – PA'AL<br>שַׁרְתֶּן<br>shart<b>e</b>n
+Verb – PA'AL<br>PERF-3ms<br>to sing	Verb – PA'AL<br>שָׁר<br>sh<b>a</b>r
+Verb – PA'AL<br>PERF-3fs<br>to sing	Verb – PA'AL<br>שָׁרָה<br>sh<b>a</b>ra
+Verb – PA'AL<br>PERF-3p<br>to sing	Verb – PA'AL<br>שָׁרוּ<br>sh<b>a</b>ru
+Verb – PA'AL<br>IMPF-1s<br>to sing	Verb – PA'AL<br>אָשִׁיר<br>ash<b>i</b>r
+Verb – PA'AL<br>IMPF-1p<br>to sing	Verb – PA'AL<br>נָשִׁיר<br>nash<b>i</b>r
+Verb – PA'AL<br>IMPF-2ms<br>to sing	Verb – PA'AL<br>תָּשִׁיר<br>tash<b>i</b>r
+Verb – PA'AL<br>IMPF-2fs<br>to sing	Verb – PA'AL<br>תָּשִׁירִי<br>tash<b>i</b>ri
+Verb – PA'AL<br>IMPF-2mp<br>to sing	Verb – PA'AL<br>תָּשִׁירוּ<br>tash<b>i</b>ru
+Verb – PA'AL<br>IMPF-2fp<br>to sing	Verb – PA'AL<br>תָּשֵׁרְנָה<br>tash<b>e</b>rnaתְּשִׁירֶינָה<br>teshir<b>e</b>na
+Verb – PA'AL<br>IMPF-3ms<br>to sing	Verb – PA'AL<br>יָשִׁיר<br>yash<b>i</b>r
+Verb – PA'AL<br>IMPF-3fs<br>to sing	Verb – PA'AL<br>תָּשִׁיר<br>tash<b>i</b>r
+Verb – PA'AL<br>IMPF-3mp<br>to sing	Verb – PA'AL<br>יָשִׁירוּ<br>yash<b>i</b>ru
+Verb – PA'AL<br>IMPF-3fp<br>to sing	Verb – PA'AL<br>תָּשֵׁרְנָה<br>tash<b>e</b>rnaתְּשִׁירֶינָה<br>teshir<b>e</b>na
+Verb – PA'AL<br>IMP-2ms<br>to sing	Verb – PA'AL<br>שִׁיר!‏<br>sh<b>i</b>r!
+Verb – PA'AL<br>IMP-2fs<br>to sing	Verb – PA'AL<br>שִׁירִי!‏<br>sh<b>i</b>ri!
+Verb – PA'AL<br>IMP-2mp<br>to sing	Verb – PA'AL<br>שִׁירוּ!‏<br>sh<b>i</b>ru!
+Verb – PA'AL<br>IMP-2fp<br>to sing	Verb – PA'AL<br>שֵׁרְנָה!‏<br>sh<b>e</b>rna!שִׁירֶינָה!‏<br>shir<b>e</b>na!
+Verb – PA'AL<br>INF-L<br>to sing	Verb – PA'AL<br>לָשִׁיר<br>lash<b>i</b>r
+Verb – PA'AL<br>AP-ms<br>to go	Verb – PA'AL<br>הוֹלֵךְ<br>hol<b>e</b>ch
+Verb – PA'AL<br>AP-fs<br>to go	Verb – PA'AL<br>הוֹלֶכֶת<br>hol<b>e</b>chet
+Verb – PA'AL<br>AP-mp<br>to go	Verb – PA'AL<br>הוֹלְכִים<br>holch<b>i</b>m
+Verb – PA'AL<br>AP-fp<br>to go	Verb – PA'AL<br>הוֹלְכוֹת<br>holch<b>o</b>t
+Verb – PA'AL<br>PERF-1s<br>to go	Verb – PA'AL<br>הָלַכְתִּי<br>hal<b>a</b>chti
+Verb – PA'AL<br>PERF-1p<br>to go	Verb – PA'AL<br>הָלַכְנוּ<br>hal<b>a</b>chnu
+Verb – PA'AL<br>PERF-2ms<br>to go	Verb – PA'AL<br>הָלַכְתָּ<br>hal<b>a</b>chta
+Verb – PA'AL<br>PERF-2fs<br>to go	Verb – PA'AL<br>הָלַכְתְּ<br>hal<b>a</b>cht
+Verb – PA'AL<br>PERF-2mp<br>to go	Verb – PA'AL<br>הֲלַכְתֶּם<br>halacht<b>e</b>m
+Verb – PA'AL<br>PERF-2fp<br>to go	Verb – PA'AL<br>הֲלַכְתֶּן<br>halacht<b>e</b>n
+Verb – PA'AL<br>PERF-3ms<br>to go	Verb – PA'AL<br>הָלַךְ<br>hal<b>a</b>ch
+Verb – PA'AL<br>PERF-3fs<br>to go	Verb – PA'AL<br>הָלְכָה<br>halch<b>a</b>
+Verb – PA'AL<br>PERF-3p<br>to go	Verb – PA'AL<br>הָלְכוּ<br>halch<b>u</b>
+Verb – PA'AL<br>IMPF-1s<br>to go	Verb – PA'AL<br>אֵלֵךְ<br>el<b>e</b>ch
+Verb – PA'AL<br>IMPF-1p<br>to go	Verb – PA'AL<br>נֵלֵךְ<br>nel<b>e</b>ch
+Verb – PA'AL<br>IMPF-2ms<br>to go	Verb – PA'AL<br>תֵּלֵךְ<br>tel<b>e</b>ch
+Verb – PA'AL<br>IMPF-2fs<br>to go	Verb – PA'AL<br>תֵּלְכִי<br>telch<b>i</b>
+Verb – PA'AL<br>IMPF-2mp<br>to go	Verb – PA'AL<br>תֵּלְכוּ<br>telch<b>u</b>
+Verb – PA'AL<br>IMPF-2fp<br>to go	Verb – PA'AL<br>תֵּלַכְנָה<br>tel<b>a</b>chnaתֵּלֵכְנָה<br>tel<b>e</b>chna
+Verb – PA'AL<br>IMPF-3ms<br>to go	Verb – PA'AL<br>יֵלֵךְ<br>yel<b>e</b>ch
+Verb – PA'AL<br>IMPF-3fs<br>to go	Verb – PA'AL<br>תֵּלֵךְ<br>tel<b>e</b>ch
+Verb – PA'AL<br>IMPF-3mp<br>to go	Verb – PA'AL<br>יֵלְכוּ<br>yelch<b>u</b>
+Verb – PA'AL<br>IMPF-3fp<br>to go	Verb – PA'AL<br>תֵּלַכְנָה<br>tel<b>a</b>chnaתֵּלֵכְנָה<br>tel<b>e</b>chna
+Verb – PA'AL<br>IMP-2ms<br>to go	Verb – PA'AL<br>לֵךְ!‏<br>l<b>e</b>ch!
+Verb – PA'AL<br>IMP-2fs<br>to go	Verb – PA'AL<br>לְכִי!‏<br>lech<b>i</b>!
+Verb – PA'AL<br>IMP-2mp<br>to go	Verb – PA'AL<br>לְכוּ!‏<br>lech<b>u</b>!
+Verb – PA'AL<br>IMP-2fp<br>to go	Verb – PA'AL<br>לֵכְנָה!‏<br>l<b>e</b>chna!
+Verb – PA'AL<br>INF-L<br>to go	Verb – PA'AL<br>לָלֶכֶת<br>lal<b>e</b>chet
+Verb – PA'AL<br>AP-ms<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>עוֹמֵד<br>om<b>e</b>d
+Verb – PA'AL<br>AP-fs<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>עוֹמֶדֶת<br>om<b>e</b>det
+Verb – PA'AL<br>AP-mp<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>עוֹמְדִים<br>omd<b>i</b>m
+Verb – PA'AL<br>AP-fp<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>עוֹמְדוֹת<br>omd<b>o</b>t
+Verb – PA'AL<br>PERF-1s<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>עָמַדְתִּי<br>am<b>a</b>deti
+Verb – PA'AL<br>PERF-1p<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>עָמַדְנוּ<br>am<b>a</b>dnu
+Verb – PA'AL<br>PERF-2ms<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>עָמַדְתָּ<br>am<b>a</b>deta
+Verb – PA'AL<br>PERF-2fs<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>עָמַדְתְּ<br>am<b>a</b>det
+Verb – PA'AL<br>PERF-2mp<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>עֲמַדְתֶּם<br>amadet<b>e</b>m
+Verb – PA'AL<br>PERF-2fp<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>עֲמַדְתֶּן<br>amadet<b>e</b>n
+Verb – PA'AL<br>PERF-3ms<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>עָמַד<br>am<b>a</b>d
+Verb – PA'AL<br>PERF-3fs<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>עָמְדָה<br>amd<b>a</b>
+Verb – PA'AL<br>PERF-3p<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>עָמְדוּ<br>amd<b>u</b>
+Verb – PA'AL<br>IMPF-1s<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>אֶעֱמֹד ~ אעמוד<br>e'em<b>o</b>d
+Verb – PA'AL<br>IMPF-1p<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>נַעֲמֹד ~ נעמוד<br>na'am<b>o</b>d
+Verb – PA'AL<br>IMPF-2ms<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>תַּעֲמֹד ~ תעמוד<br>ta'am<b>o</b>d
+Verb – PA'AL<br>IMPF-2fs<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>תַּעַמְדִי<br>ta'amd<b>i</b>
+Verb – PA'AL<br>IMPF-2mp<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>תַּעַמְדוּ<br>ta'amd<b>u</b>
+Verb – PA'AL<br>IMPF-2fp<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>תַּעֲמֹדְנָה ~ תעמודנה<br>ta'am<b>o</b>dna
+Verb – PA'AL<br>IMPF-3ms<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>יַעֲמֹד ~ יעמוד<br>ya'am<b>o</b>d
+Verb – PA'AL<br>IMPF-3fs<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>תַּעֲמֹד ~ תעמוד<br>ta'am<b>o</b>d
+Verb – PA'AL<br>IMPF-3mp<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>יַעַמְדוּ<br>ya'amd<b>u</b>
+Verb – PA'AL<br>IMPF-3fp<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>תַּעֲמֹדְנָה ~ תעמודנה<br>ta'am<b>o</b>dna
+Verb – PA'AL<br>IMP-2ms<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>עֲמֹד!‏ ~ עמוד!‏<br>am<b>o</b>d!
+Verb – PA'AL<br>IMP-2fs<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>עִמְדִי!‏<br>imd<b>i</b>!
+Verb – PA'AL<br>IMP-2mp<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>עִמְדוּ!‏<br>imd<b>u</b>!
+Verb – PA'AL<br>IMP-2fp<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>עֲמֹדְנָה!‏ ~ עמודנה!‏<br>am<b>o</b>dna!
+Verb – PA'AL<br>INF-L<br>to stand; to stop, to stand still; to be about to, to be going to	Verb – PA'AL<br>לַעֲמֹד ~ לעמוד<br>la'am<b>o</b>d
+Verb – PA'AL<br>AP-ms<br>to sit, to settle	Verb – PA'AL<br>יוֹשֵׁב<br>yosh<b>e</b>v
+Verb – PA'AL<br>AP-fs<br>to sit, to settle	Verb – PA'AL<br>יוֹשֶׁבֶת<br>yosh<b>e</b>vet
+Verb – PA'AL<br>AP-mp<br>to sit, to settle	Verb – PA'AL<br>יוֹשְׁבִים<br>yoshv<b>i</b>m
+Verb – PA'AL<br>AP-fp<br>to sit, to settle	Verb – PA'AL<br>יוֹשְׁבוֹת<br>yoshv<b>o</b>t
+Verb – PA'AL<br>PERF-1s<br>to sit, to settle	Verb – PA'AL<br>יָשַׁבְתִּי<br>yash<b>a</b>vti
+Verb – PA'AL<br>PERF-1p<br>to sit, to settle	Verb – PA'AL<br>יָשַׁבְנוּ<br>yash<b>a</b>vnu
+Verb – PA'AL<br>PERF-2ms<br>to sit, to settle	Verb – PA'AL<br>יָשַׁבְתָּ<br>yash<b>a</b>vta
+Verb – PA'AL<br>PERF-2fs<br>to sit, to settle	Verb – PA'AL<br>יָשַׁבְתְּ<br>yash<b>a</b>vt
+Verb – PA'AL<br>PERF-2mp<br>to sit, to settle	Verb – PA'AL<br>יְשַׁבְתֶּם<br>yeshavt<b>e</b>m
+Verb – PA'AL<br>PERF-2fp<br>to sit, to settle	Verb – PA'AL<br>יְשַׁבְתֶּן<br>yeshavt<b>e</b>n
+Verb – PA'AL<br>PERF-3ms<br>to sit, to settle	Verb – PA'AL<br>יָשַׁב<br>yash<b>a</b>v
+Verb – PA'AL<br>PERF-3fs<br>to sit, to settle	Verb – PA'AL<br>יָשְׁבָה<br>yashv<b>a</b>
+Verb – PA'AL<br>PERF-3p<br>to sit, to settle	Verb – PA'AL<br>יָשְׁבוּ<br>yashv<b>u</b>
+Verb – PA'AL<br>IMPF-1s<br>to sit, to settle	Verb – PA'AL<br>אֵשֵׁב<br>esh<b>e</b>v
+Verb – PA'AL<br>IMPF-1p<br>to sit, to settle	Verb – PA'AL<br>נֵשֵׁב<br>nesh<b>e</b>v
+Verb – PA'AL<br>IMPF-2ms<br>to sit, to settle	Verb – PA'AL<br>תֵּשֵׁב<br>tesh<b>e</b>v
+Verb – PA'AL<br>IMPF-2fs<br>to sit, to settle	Verb – PA'AL<br>תֵּשְׁבִי<br>teshv<b>i</b>
+Verb – PA'AL<br>IMPF-2mp<br>to sit, to settle	Verb – PA'AL<br>תֵּשְׁבוּ<br>teshv<b>u</b>
+Verb – PA'AL<br>IMPF-2fp<br>to sit, to settle	Verb – PA'AL<br>תֵּשַׁבְנָה<br>tesh<b>a</b>vnaתֵּשֵׁבְנָה<br>tesh<b>e</b>vna
+Verb – PA'AL<br>IMPF-3ms<br>to sit, to settle	Verb – PA'AL<br>יֵשֵׁב<br>yesh<b>e</b>v
+Verb – PA'AL<br>IMPF-3fs<br>to sit, to settle	Verb – PA'AL<br>תֵּשֵׁב<br>tesh<b>e</b>v
+Verb – PA'AL<br>IMPF-3mp<br>to sit, to settle	Verb – PA'AL<br>יֵשְׁבוּ<br>yeshv<b>u</b>
+Verb – PA'AL<br>IMPF-3fp<br>to sit, to settle	Verb – PA'AL<br>תֵּשַׁבְנָה<br>tesh<b>a</b>vnaתֵּשֵׁבְנָה<br>tesh<b>e</b>vna
+Verb – PA'AL<br>IMP-2ms<br>to sit, to settle	Verb – PA'AL<br>שֵׁב!‏<br>sh<b>e</b>v!
+Verb – PA'AL<br>IMP-2fs<br>to sit, to settle	Verb – PA'AL<br>שְׁבִי!‏<br>shv<b>i</b>!
+Verb – PA'AL<br>IMP-2mp<br>to sit, to settle	Verb – PA'AL<br>שְׁבוּ!‏<br>shv<b>u</b>!
+Verb – PA'AL<br>IMP-2fp<br>to sit, to settle	Verb – PA'AL<br>שֵׁבְנָה!‏<br>sh<b>e</b>vna!
+Verb – PA'AL<br>INF-L<br>to sit, to settle	Verb – PA'AL<br>לָשֶׁבֶת<br>lash<b>e</b>vet
+Verb – PA'AL<br>AP-ms<br>to lie, to lie down	Verb – PA'AL<br>שׁוֹכֵב<br>shoch<b>e</b>v
+Verb – PA'AL<br>AP-fs<br>to lie, to lie down	Verb – PA'AL<br>שׁוֹכֶבֶת<br>shoch<b>e</b>vet
+Verb – PA'AL<br>AP-mp<br>to lie, to lie down	Verb – PA'AL<br>שׁוֹכְבִים<br>shochv<b>i</b>m
+Verb – PA'AL<br>AP-fp<br>to lie, to lie down	Verb – PA'AL<br>שׁוֹכְבוֹת<br>shochv<b>o</b>t
+Verb – PA'AL<br>PERF-1s<br>to lie, to lie down	Verb – PA'AL<br>שָׁכַבְתִּי<br>shach<b>a</b>vti
+Verb – PA'AL<br>PERF-1p<br>to lie, to lie down	Verb – PA'AL<br>שָׁכַבְנוּ<br>shach<b>a</b>vnu
+Verb – PA'AL<br>PERF-2ms<br>to lie, to lie down	Verb – PA'AL<br>שָׁכַבְתָּ<br>shach<b>a</b>vta
+Verb – PA'AL<br>PERF-2fs<br>to lie, to lie down	Verb – PA'AL<br>שָׁכַבְתְּ<br>shach<b>a</b>vt
+Verb – PA'AL<br>PERF-2mp<br>to lie, to lie down	Verb – PA'AL<br>שְׁכַבְתֶּם<br>shchavt<b>e</b>m
+Verb – PA'AL<br>PERF-2fp<br>to lie, to lie down	Verb – PA'AL<br>שְׁכַבְתֶּן<br>shchavt<b>e</b>n
+Verb – PA'AL<br>PERF-3ms<br>to lie, to lie down	Verb – PA'AL<br>שָׁכַב<br>shach<b>a</b>v
+Verb – PA'AL<br>PERF-3fs<br>to lie, to lie down	Verb – PA'AL<br>שָׁכְבָה<br>shachv<b>a</b>
+Verb – PA'AL<br>PERF-3p<br>to lie, to lie down	Verb – PA'AL<br>שָׁכְבוּ<br>shachv<b>u</b>
+Verb – PA'AL<br>IMPF-1s<br>to lie, to lie down	Verb – PA'AL<br>אֶשְׁכַּב<br>eshk<b>a</b>v
+Verb – PA'AL<br>IMPF-1p<br>to lie, to lie down	Verb – PA'AL<br>נִשְׁכַּב<br>nishk<b>a</b>v
+Verb – PA'AL<br>IMPF-2ms<br>to lie, to lie down	Verb – PA'AL<br>תִּשְׁכַּב<br>tishk<b>a</b>v
+Verb – PA'AL<br>IMPF-2fs<br>to lie, to lie down	Verb – PA'AL<br>תִּשְׁכְּבִי<br>tishkev<b>i</b>
+Verb – PA'AL<br>IMPF-2mp<br>to lie, to lie down	Verb – PA'AL<br>תִּשְׁכְּבוּ<br>tishkev<b>u</b>
+Verb – PA'AL<br>IMPF-2fp<br>to lie, to lie down	Verb – PA'AL<br>תִּשְׁכַּבְנָה<br>tishk<b>a</b>vna
+Verb – PA'AL<br>IMPF-3ms<br>to lie, to lie down	Verb – PA'AL<br>יִשְׁכַּב<br>yishk<b>a</b>v
+Verb – PA'AL<br>IMPF-3fs<br>to lie, to lie down	Verb – PA'AL<br>תִּשְׁכַּב<br>tishk<b>a</b>v
+Verb – PA'AL<br>IMPF-3mp<br>to lie, to lie down	Verb – PA'AL<br>יִשְׁכְּבוּ<br>yishkev<b>u</b>
+Verb – PA'AL<br>IMPF-3fp<br>to lie, to lie down	Verb – PA'AL<br>תִּשְׁכַּבְנָה<br>tishk<b>a</b>vna
+Verb – PA'AL<br>IMP-2ms<br>to lie, to lie down	Verb – PA'AL<br>שְׁכַב!‏<br>shch<b>a</b>v!
+Verb – PA'AL<br>IMP-2fs<br>to lie, to lie down	Verb – PA'AL<br>שִׁכְבִי!‏<br>shichv<b>i</b>!
+Verb – PA'AL<br>IMP-2mp<br>to lie, to lie down	Verb – PA'AL<br>שִׁכְבוּ!‏<br>shichv<b>u</b>!
+Verb – PA'AL<br>IMP-2fp<br>to lie, to lie down	Verb – PA'AL<br>שְׁכַבְנָה!‏<br>shch<b>a</b>vna!
+Verb – PA'AL<br>INF-L<br>to lie, to lie down	Verb – PA'AL<br>לִשְׁכַּב<br>lishk<b>a</b>v
