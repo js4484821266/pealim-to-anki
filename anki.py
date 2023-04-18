@@ -1,9 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
 print('--- START ---')
-with open(f'Hebrew.txt', 'w', encoding='u8') as f:
+with open(f'Hebrew-.txt', 'w', encoding='u8') as f:
+ with open(f'Hebrew.txt', 'w', encoding='u8') as g:
     # for wsn in range(4000):
-    for wsn in range(1):
+    for wsn in[7628-1]:
         r = requests.get(f'https://www.pealim.com/dict/{wsn+1}/')
         if r.status_code != 200:
             print(f'ERROR {r.status_code}: {wsn+1}')
@@ -21,7 +22,7 @@ with open(f'Hebrew.txt', 'w', encoding='u8') as f:
                 i = i.contents
                 r[1] += '<br>'+i[0].text+'<br>'
                 r[1] += ''.join(map(str, i[1].contents))
-            f.write('\t'.join(r)+'\n')
+            g.write('\t'.join(r)+'\n')
         elif pos == 'Pronoun':
             print(f'{pos} {wsn+1}')
             continue
