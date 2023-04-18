@@ -1,1 +1,28 @@
-07628<br>Adverb<br>by the way, incidentally; while, during	07628<br>Adverb<br>אַגַּב<br>ag<b>a</b>v
+00001<br>Verb – PA'AL<br>AP-ms<br>to write	00001<br>Verb – PA'AL<br>כּוֹתֵב<br>kot<b>e</b>v
+00001<br>Verb – PA'AL<br>AP-fs<br>to write	00001<br>Verb – PA'AL<br>כּוֹתֶבֶת<br>kot<b>e</b>vet
+00001<br>Verb – PA'AL<br>AP-mp<br>to write	00001<br>Verb – PA'AL<br>כּוֹתְבִים<br>kotv<b>i</b>m
+00001<br>Verb – PA'AL<br>AP-fp<br>to write	00001<br>Verb – PA'AL<br>כּוֹתְבוֹת<br>kotv<b>o</b>t
+00001<br>Verb – PA'AL<br>PERF-1s<br>to write	00001<br>Verb – PA'AL<br>כָּתַבְתִּי<br>kat<b>a</b>vti
+00001<br>Verb – PA'AL<br>PERF-1p<br>to write	00001<br>Verb – PA'AL<br>כָּתַבְנוּ<br>kat<b>a</b>vnu
+00001<br>Verb – PA'AL<br>PERF-2ms<br>to write	00001<br>Verb – PA'AL<br>כָּתַבְתָּ<br>kat<b>a</b>vta
+00001<br>Verb – PA'AL<br>PERF-2fs<br>to write	00001<br>Verb – PA'AL<br>כָּתַבְתְּ<br>kat<b>a</b>vt
+00001<br>Verb – PA'AL<br>PERF-2mp<br>to write	00001<br>Verb – PA'AL<br>כְּתַבְתֶּם<br>ktavt<b>e</b>m
+00001<br>Verb – PA'AL<br>PERF-2fp<br>to write	00001<br>Verb – PA'AL<br>כְּתַבְתֶּן<br>ktavt<b>e</b>n
+00001<br>Verb – PA'AL<br>PERF-3ms<br>to write	00001<br>Verb – PA'AL<br>כָּתַב<br>kat<b>a</b>v
+00001<br>Verb – PA'AL<br>PERF-3fs<br>to write	00001<br>Verb – PA'AL<br>כָּתְבָה<br>katv<b>a</b>
+00001<br>Verb – PA'AL<br>PERF-3p<br>to write	00001<br>Verb – PA'AL<br>כָּתְבוּ<br>katv<b>u</b>
+00001<br>Verb – PA'AL<br>IMPF-1s<br>to write	00001<br>Verb – PA'AL<br>אֶכְתֹּב ~ אכתוב<br>echt<b>o</b>v
+00001<br>Verb – PA'AL<br>IMPF-1p<br>to write	00001<br>Verb – PA'AL<br>נִכְתֹּב ~ נכתוב<br>nicht<b>o</b>v
+00001<br>Verb – PA'AL<br>IMPF-2ms<br>to write	00001<br>Verb – PA'AL<br>תִּכְתֹּב ~ תכתוב<br>ticht<b>o</b>v
+00001<br>Verb – PA'AL<br>IMPF-2fs<br>to write	00001<br>Verb – PA'AL<br>תִּכְתְּבִי<br>tichtev<b>i</b>
+00001<br>Verb – PA'AL<br>IMPF-2mp<br>to write	00001<br>Verb – PA'AL<br>תִּכְתְּבוּ<br>tichtev<b>u</b>
+00001<br>Verb – PA'AL<br>IMPF-2fp<br>to write	00001<br>Verb – PA'AL<br>תִּכְתֹּבְנָה ~ תכתובנה<br>ticht<b>o</b>vna
+00001<br>Verb – PA'AL<br>IMPF-3ms<br>to write	00001<br>Verb – PA'AL<br>יִכְתֹּב ~ יכתוב<br>yicht<b>o</b>v
+00001<br>Verb – PA'AL<br>IMPF-3fs<br>to write	00001<br>Verb – PA'AL<br>תִּכְתֹּב ~ תכתוב<br>ticht<b>o</b>v
+00001<br>Verb – PA'AL<br>IMPF-3mp<br>to write	00001<br>Verb – PA'AL<br>יִכְתְּבוּ<br>yichtev<b>u</b>
+00001<br>Verb – PA'AL<br>IMPF-3fp<br>to write	00001<br>Verb – PA'AL<br>תִּכְתֹּבְנָה ~ תכתובנה<br>ticht<b>o</b>vna
+00001<br>Verb – PA'AL<br>IMP-2ms<br>to write	00001<br>Verb – PA'AL<br>כְּתֹב!‏ ~ כתוב!‏<br>kt<b>o</b>v!
+00001<br>Verb – PA'AL<br>IMP-2fs<br>to write	00001<br>Verb – PA'AL<br>כִּתְבִי!‏<br>kitv<b>i</b>!
+00001<br>Verb – PA'AL<br>IMP-2mp<br>to write	00001<br>Verb – PA'AL<br>כִּתְבוּ!‏<br>kitv<b>u</b>!
+00001<br>Verb – PA'AL<br>IMP-2fp<br>to write	00001<br>Verb – PA'AL<br>כְּתֹבְנָה!‏ ~ כתובנה!‏<br>kt<b>o</b>vna!
+00001<br>Verb – PA'AL<br>INF-L<br>to write	00001<br>Verb – PA'AL<br>לִכְתֹּב ~ לכתוב<br>licht<b>o</b>v
