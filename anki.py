@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 print('--- START ---')
 with open(f'Hebrew.txt', 'w', encoding='u8') as f:
-    for wsn in range(3000, 4000):
+    for wsn in range(4000):
         r = requests.get(f'https://www.pealim.com/dict/{wsn+1}/')
         if r.status_code != 200:
             print(f'ERROR {r.status_code}: {wsn+1}')
