@@ -1,12 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 with open(f'Hebrew.txt', 'w', encoding='u8') as f:
-    for wsn in range(1000,2000):
+    for wsn in range(2195,3000):
         r = requests.get(f'https://www.pealim.com/dict/{wsn+1}/')
         if r.status_code != 200:
-            print(f'\nERROR {r.status_code}: {wsn+1}')
+            print(f'ERROR {r.status_code}: {wsn+1}')
             continue
-        print(f'{wsn+1}',end=' ')
+        print(wsn+1, end='\r')
         soup = BeautifulSoup(r.text, 'html.parser')
         pos = soup.h2.find_next('p').text
         h = f'{wsn+1:05d}'+'<br>' + pos
