@@ -2,17 +2,17 @@ import requests
 from bs4 import BeautifulSoup
 print('--- START ---')
 
-# prepare frame-*.html
-frame = {
-    'INF-L': open('frame-Verb.html', encoding='u8').read(),
-    'sc': open('frame-Noun.html', encoding='u8').read(),
-    'ms-a': open('frame-Adjective.html', encoding='u8').read(),
-    'b': open('frame-Preposition.html', encoding='u8').read(),
-    'lead': '<div class="lead"></div>'
-}
-
 with open(f'Hebrew.txt', 'w', encoding='u8') as f:
-    for wsn in [2682-1]:
+    for wsn in range(9108, -1):
+        # prepare frame-*.html
+        frame = {
+            'INF-L': open('frame-Verb.html', encoding='u8').read(),
+            's': open('frame-Noun.html', encoding='u8').read(),
+            'p': open('frame-Noun.html', encoding='u8').read(),
+            'ms-a': open('frame-Adjective.html', encoding='u8').read(),
+            'P-1s': open('frame-Preposition.html', encoding='u8').read()
+        }
+
         r = requests.get(f'https://www.pealim.com/dict/{wsn+1}/')
         if r.status_code != 200:
             print(f'ERROR {r.status_code}: {wsn+1}')
@@ -31,16 +31,22 @@ with open(f'Hebrew.txt', 'w', encoding='u8') as f:
             if soup.find('div', {'id': i}):
                 frame = BeautifulSoup(frame[i], 'html.parser')
                 break
+        if frame is dict:
+            frame = BeautifulSoup(
+                '<div class="lead"></div>',
+                'html.parser'
+            )
 
         # get conjugation table
-        t = soup.find('div', {'id': 'conjugation-table'})
+        t = soup.find('table', {'class': 'conjugation-table'})
 
         if t:
             if t.find('div', {'id': '1s'}):
+                print(f'Pronoun: {wsn+1}')
                 continue
             w = list(map(lambda x: x.div, t.find_all(
                 'td', {'class': 'conj-td'})))
-            w.insert(0,soup.find('div', {'id': 'b'}))
+            w.insert(0, soup.find('div', {'id': 'b'}))
             for i in w:
                 try:
                     j = i.attrs['id']
@@ -51,11 +57,16 @@ with open(f'Hebrew.txt', 'w', encoding='u8') as f:
                     pass
             r[1] += str(frame).replace('\n', '')
         else:
-            w = soup.find('div', {'class': 'lead'}).contents
+            try:
+                w = soup.find('div', {'class': 'lead'}).contents
+            except AttributeError:
+                w = soup.find('div', {'id': 'b'}).contents
             for i in w:
+                if 'class' in i.attrs:
+                    continue
                 i = i.contents
-                r[1] += i[0].text+'<br>'
-                r[1] += ''.join(map(str, i[1].contents))
+                r[1] += i[0].text+'<br>' + ''.join(
+                    map(str, i[1].contents))
         f.write('\t'.join(r)+'\n')
 
 print('--- END ---')
