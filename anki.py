@@ -3,10 +3,10 @@ from bs4 import BeautifulSoup
 print('--- START ---')
 
 with open(f'Hebrew.txt', 'w', encoding='u8') as f:
-    for wsn in range(9108, -1):
+    for wsn in range(1,9108):
         # prepare frame-*.html
         frame = {
-            'INF-L': open('frame-Verb.html', encoding='u8').read(),
+            'PERF-3ms': open('frame-Verb.html', encoding='u8').read(),
             's': open('frame-Noun.html', encoding='u8').read(),
             'p': open('frame-Noun.html', encoding='u8').read(),
             'ms-a': open('frame-Adjective.html', encoding='u8').read(),
@@ -20,8 +20,11 @@ with open(f'Hebrew.txt', 'w', encoding='u8') as f:
         print(wsn+1, end='\r')
         soup = BeautifulSoup(r.text, 'html.parser')
 
+        # get part of speech
+        pos=soup.find('h2',{'class':'page-header'}).find_next('p').text
+
         # write header
-        r = [f'{wsn+1:05d}'+'<br>']*2
+        r = [f'{wsn+1:05d}'+'<br>'+pos+'<br>']*2
 
         # get & pull out meaning
         r[0] += soup.find('div', {'class': 'lead'}).extract().text
