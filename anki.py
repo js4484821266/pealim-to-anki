@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 print('--- START ---')
 
 with open(f'Hebrew.txt', 'w', encoding='u8') as f:
-    for wsn in range(1,9108):
+    for wsn in range(9108,9113):
         # prepare frame-*.html
         frame = {
             'PERF-3ms': open('frame-Verb.html', encoding='u8').read(),
