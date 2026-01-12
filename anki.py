@@ -21,7 +21,7 @@ user_agent = 'pealim-to-anki-bot'
 
 with open(f'Hebrew.txt', 'w', encoding='u8') as f:
     for wsn in range(9123,9125):
-        # prepare frame-*.html
+        # load frame-*.html
         frame = {
             'PERF-3ms': open('frame-Verb.html', encoding='u8').read(),
             's': open('frame-Noun.html', encoding='u8').read(),
