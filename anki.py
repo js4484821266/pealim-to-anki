@@ -1,6 +1,23 @@
 import requests
 from bs4 import BeautifulSoup
+from urllib.robotparser import RobotFileParser
+from urllib.error import URLError
+from time import sleep
+
 print('--- START ---')
+
+# Check robots.txt compliance
+rp = RobotFileParser()
+rp.set_url('https://www.pealim.com/robots.txt')
+robots_txt_available = False
+try:
+    rp.read()
+    robots_txt_available = True
+    print('robots.txt loaded successfully')
+except (URLError, Exception) as e:
+    print(f'Warning: Could not load robots.txt ({e}), proceeding with caution')
+
+user_agent = 'pealim-to-anki-bot'
 
 with open(f'Hebrew.txt', 'w', encoding='u8') as f:
     for wsn in range(9123,9125):
@@ -13,7 +30,17 @@ with open(f'Hebrew.txt', 'w', encoding='u8') as f:
             'P-1s': open('frame-Preposition.html', encoding='u8').read()
         }
 
-        r = requests.get(f'https://www.pealim.com/dict/{wsn+1}/')
+        url = f'https://www.pealim.com/dict/{wsn+1}/'
+        
+        # Check if URL is allowed by robots.txt (if available)
+        if robots_txt_available and not rp.can_fetch(user_agent, url):
+            print(f'SKIPPED (robots.txt): {wsn+1}')
+            continue
+        
+        # Add delay to be respectful to the server (1 second between requests)
+        sleep(1)
+        
+        r = requests.get(url, headers={'User-Agent': user_agent})
         if r.status_code != 200:
             print(f'ERROR {r.status_code}: {wsn+1}')
             continue
@@ -56,7 +83,7 @@ with open(f'Hebrew.txt', 'w', encoding='u8') as f:
                     frame.find('div', {'id': j}).extend(
                         [k for k in i.contents
                          if 'class' not in k.attrs])
-                except:
+                except (AttributeError, KeyError):
                     pass
             r[1] += str(frame).replace('\n', '')
         else:
