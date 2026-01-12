@@ -11,8 +11,8 @@ rp.set_url('https://www.pealim.com/robots.txt')
 try:
     rp.read()
     print('robots.txt loaded successfully')
-except:
-    print('Warning: Could not load robots.txt, proceeding with caution')
+except Exception as e:
+    print(f'Warning: Could not load robots.txt ({e}), proceeding with caution')
 
 user_agent = 'pealim-to-anki-bot'
 
@@ -80,7 +80,7 @@ with open(f'Hebrew.txt', 'w', encoding='u8') as f:
                     frame.find('div', {'id': j}).extend(
                         [k for k in i.contents
                          if 'class' not in k.attrs])
-                except:
+                except (AttributeError, KeyError):
                     pass
             r[1] += str(frame).replace('\n', '')
         else:
