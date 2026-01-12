@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 from urllib.robotparser import RobotFileParser
 from urllib.error import URLError
 from time import sleep
+import getopt
+import sys
 
 print('--- START ---')
 
@@ -15,9 +17,12 @@ try:
     robots_txt_available = True
     print('robots.txt loaded successfully')
 except (URLError, Exception) as e:
-    print(f'Warning: Could not load robots.txt ({e}), proceeding with caution')
+    print(f'Warning: Could not load robots.txt ({e}), quitting...')
+    exit(1)
 
 user_agent = 'pealim-to-anki-bot'
+
+# todo
 
 with open(f'Hebrew.txt', 'w', encoding='u8') as f:
     for wsn in range(9123,9125):
@@ -31,11 +36,6 @@ with open(f'Hebrew.txt', 'w', encoding='u8') as f:
         }
 
         url = f'https://www.pealim.com/dict/{wsn+1}/'
-        
-        # Check if URL is allowed by robots.txt (if available)
-        if robots_txt_available and not rp.can_fetch(user_agent, url):
-            print(f'SKIPPED (robots.txt): {wsn+1}')
-            continue
         
         # Add delay to be respectful to the server (1 second between requests)
         sleep(1)
