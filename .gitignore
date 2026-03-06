@@ -17,3 +17,6 @@ ENV/
 *.swp
 *.swo
 *~
+
+# temporary files
+anki copy.py

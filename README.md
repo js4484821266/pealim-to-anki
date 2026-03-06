@@ -27,6 +27,10 @@ python anki.py
 
 This will create a `Hebrew.txt` file with tab-separated flashcard data that can be imported into Anki.
 
+## Performance Improvement
+
+For portfolio context, the average runtime was reduced from **2 minutes 54.49 seconds** to **17.97 seconds** (**89.70% faster**).
+
 You can edit the range in `anki.py` to specify which dictionary entries to scrape:
 ```python
 for wsn in range(9123, 9125):  # Change these numbers
