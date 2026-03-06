@@ -29,7 +29,7 @@ This will create a `Hebrew.txt` file with tab-separated flashcard data that can 
 
 ## Performance Improvement
 
-For portfolio context, the average runtime was reduced from **2 minutes 54.49 seconds** to **17.97 seconds** (**89.70% faster**).
+For portfolio context, the average runtime was reduced from **2 minutes 54.49 seconds** to **1 minute 52.27 seconds** (**35.66% faster**).
 
 You can edit the range in `anki.py` to specify which dictionary entries to scrape:
 ```python
